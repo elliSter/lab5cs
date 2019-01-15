@@ -1,0 +1,9 @@
+C:\Users\dte\OneDrive\labs\lab5cs\AccessingData\AccessingData\bin\x64\Debug\AccessingData.exe.config
+C:\Users\dte\OneDrive\labs\lab5cs\AccessingData\AccessingData\bin\x64\Debug\AccessingData.exe
+C:\Users\dte\OneDrive\labs\lab5cs\AccessingData\AccessingData\bin\x64\Debug\AccessingData.pdb
+C:\Users\dte\OneDrive\labs\lab5cs\AccessingData\AccessingData\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\dte\OneDrive\labs\lab5cs\AccessingData\AccessingData\obj\x64\Debug\AccessingData.WorkWithData.resources
+C:\Users\dte\OneDrive\labs\lab5cs\AccessingData\AccessingData\obj\x64\Debug\AccessingData.Properties.Resources.resources
+C:\Users\dte\OneDrive\labs\lab5cs\AccessingData\AccessingData\obj\x64\Debug\AccessingData.csproj.GenerateResource.Cache
+C:\Users\dte\OneDrive\labs\lab5cs\AccessingData\AccessingData\obj\x64\Debug\AccessingData.exe
+C:\Users\dte\OneDrive\labs\lab5cs\AccessingData\AccessingData\obj\x64\Debug\AccessingData.pdb
